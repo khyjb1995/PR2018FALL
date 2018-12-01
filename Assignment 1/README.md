@@ -20,43 +20,43 @@ In this program, first time to learn how to use these library for Python. These 
 
 #### A Part of Image (Small)
 ##### Recognition Image
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/count03.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/count03.jpg)
 ##### Black Pixel of the result
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/result_count03/Blackback_Result.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/result_count03/Blackback_Result.jpg)
 ##### Red Pixel of the result
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/result_count03/RedDot_Result.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/result_count03/RedDot_Result.jpg)
 ##### Red Mark of the result
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/result_count03/Circle_Result.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/result_count03/Circle_Result.jpg)
 
 #### A Part of Image (Medium)
 ##### Recognition Image
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/count02.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/count02.jpg)
 ##### Black Pixel of the Result
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/result_count02/Blackback_Result.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/result_count02/Blackback_Result.jpg)
 ##### Red Pixel of the Result
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/result_count02/RedDot_Result.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/result_count02/RedDot_Result.jpg)
 ##### Red Mark of the Result
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/result_count02/Circle_Result.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/result_count02/Circle_Result.jpg)
 
 #### A Part of Image (Large)
 ##### Recognition Image
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/count04.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/count04.jpg)
 ##### Black Pixel of the Result
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/result_count04/Blackback_Result.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/result_count04/Blackback_Result.jpg)
 ##### Red Pixel of the Result
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/result_count04/RedDot_Result.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/result_count04/RedDot_Result.jpg)
 ##### Red Mark of the Result
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/result_count04/Circle_Result.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/result_count04/Circle_Result.jpg)
 
 #### A Part of Image (Full)
 ##### Recognition Image
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/full_duck.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/full_duck.jpg)
 ##### Black Pixel of the Result
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/result_full_duck/Blackback_Result.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/result_full_duck/Blackback_Result.jpg)
 ##### Red Pixel of the Result
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/result_full_duck/RedDot_Result.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/result_full_duck/RedDot_Result.jpg)
 ##### Red Mark of the Result
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/result_full_duck/Circle_Result.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/result_full_duck/Circle_Result.jpg)
 
 #### Details of the Result
 
