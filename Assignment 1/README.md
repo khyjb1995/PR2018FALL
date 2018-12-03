@@ -13,7 +13,7 @@
  -  Must output an image which keeps every duck-body pixel classified with classifier and replaces all nonduck-body pixels with black pixels.
 #
 ### Flowchart of program
-![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%21/flowchart.jpg)
+![](https://github.com/khyjb1995/PR2018FALL/blob/master/Assignment%201/flowchart.jpg)
 #
 ### Result & Conclusion
 In this program, first time to learn how to use these library for Python. These library helps us to reduce many works on the data training, data clustering, data convert and more. This program show the result by using the simple Naïve Bayes, I using the OpenCV to read image with 3-dimension on each dot R,G,B put it in to array and using another list to label it is a part of duck feature or not. After finish that step, make an array convert to numpy array format to fitting it into Gaussian Naïve Bayes train the data. Then I using the predict function to predict each dot result and output the image with the classifier. At last I using an algorithm myself, I scan the Black Pixel of the result image by different size of the box, when the box contains the black pixel smaller than a number, I mark it as a duck, and output to Red Mark image.
