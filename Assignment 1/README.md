@@ -63,6 +63,6 @@ In this program, first time to learn how to use these library for Python. These 
 |  | Pixel | FileSize | Speed | Approximately |
 |---|---|---|---|---|
 | Small | 216x257 | 27.2KB | 0h 1min | 12 ducks |
-| Medium | 1099x907 | 306KB | 0h 4min | ? ducks |
-| Large | 1529x813 | 361KB | 0h 36min | ? ducks |
+| Medium | 1099x907 | 306KB | 0h 4min | 145 ducks |
+| Large | 1529x813 | 361KB | 0h 4min | 228 ducks |
 | Full | 5946x13816 | 8.41MB | 3h 03min | 4983 ducks |
